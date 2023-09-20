@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chauhanankit918
+- 👋 Hi, I’m Ankit Chauhan
 - 👀 I’m interested in Python technology
-- 🌱 I’m currently learning Django development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Django development
 - 📫 My mail id chauhanankit918@gmail.com
 
 <!---
